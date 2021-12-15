@@ -1,17 +1,21 @@
 # placement
 FAANG alternative companies to apply for SDE role
 
-1.Uber
-2.Linkedin
-3.Indeed
-4.Salesforce
-5.Oracle
-6.Paypal
-7.Nvidia
-Which are product-based, FAANG level companies present in Mumbai for a software developer, like Google, Microsoft, and Amazon?
-As of now I beleive Amazon recently opened their development center in Mumbai. Apart from Amazon there are few good product based companies and captive are present in Mumbai.
+1.Uber<br/>
+2.Linkedin<br/>
+3.Indeed<br/>
+4.Salesforce<br/>
+5.Oracle<br/>
+6.Paypal<br/>
+7.Nvidia<br/>
 
-Ex — GE, Reliance Jio, BOA,BNP Paribas,vJPMC, Morgan Stanley etc.
+GE,<br/>
+
+Reliance Jio, <br/>
+BOA,<br/>
+BNP Paribas<br/>
+,vJPMC, <br/>
+Morgan Stanley etc.<br/>
 
 Google(Though Software Engineers jobs not available)
 Microsoft<br/>
