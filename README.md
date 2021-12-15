@@ -112,3 +112,76 @@ Mastercard<br/>
 Visa<br/><br/>
 Samsung<br/>
 Hashedin<br/>
+ServiceNow <br/>
+Tesla India <br/>
+OCI <br/>
+Indeed <br/><br/><br/>
+
+Directi<br/>
+Airbnb<br/>
+Nutanix<br/>
+Visa<br/>
+Slack<br/>
+Airtel X lab <br/>
+NetApp <br/>
+UIPath <br/>
+Twilio 
+<br/>
+Twitter <br/>
+Zoom <br/>
+Observe.ai <br/>
+Tesco <br/>
+Target <br/>
+Bloomreach <br/>
+Cadence Inc <br/>
+Nike <br/>
+Graviton research <br/>
+World quant <br/>
+Fidelity investments<br/>
+Wells Fargo <br/>
+Druva <br/>
+Curefit 
+<br/>
+Udaan <br/>
+Ajio 
+<br/>
+PharmaEasy <br/>
+Meesho <br/>
+Nurture.farm <br/>
+RazorPay <br/>
+Zeta. <br/>
+Phonepe <br/>
+AvailFinance <br/>
+ClearTax <br/>
+Paytm <br/>
+Rupeck <br/>
+Jupiter Money <br/>
+Juspay <br/>
+Zynga <br/>
+Hotstar <br/>
+Flock <br/>
+
+Inmobi <br/>
+ShareChat <br/>
+Swiggy <br/>
+Zomato <br/>
+Rivigo <br/>
+Delivery <br/>
+
+Ola <br/>
+Vogo <br/>
+Dunzo <br/>
+Freshworks <br/>
+Wooqer <br/>
+Oyo 
+<br/>
+Rubrik <br/>
+Compass Inc. <br/>
+Cohesity <br/>
+Tekion Corp<br/>
+Harness <br/>
+
+Gojek <br/>
+Grab <br/>
+Turvo Inc <br/>
+OPPO <br/>
